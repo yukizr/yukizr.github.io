@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gtm on Wayfarer</title>
+    <link>/tags/gtm/</link>
+    <description>Recent content in gtm on Wayfarer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gtm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install Google Tag Manager on WordPress by Manually</title>
+      <link>/posts/how-to-install-google-tag-manager-on-wordpress-by-manually/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-install-google-tag-manager-on-wordpress-by-manually/</guid>
+      <description>This is my maiden article in English. Writing a simple tutorial on a popular topic is my way that hopefully to get broad viewers further. I want to give a simple tutorial about how to install Google Tag Manager on WordPress by editing themes directly. This tutorial is suitable for you if your themes don’t have any features to add any extra tracking. This usually happens with free WordPress themes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Wayfarer</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Wayfarer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>web</title>
+      <link>/categories/web/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>karya</title>
+      <link>/categories/karya/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/karya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buku</title>
+      <link>/categories/buku/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/buku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>falsafah</title>
+      <link>/categories/falsafah/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/falsafah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indonesia</title>
+      <link>/categories/indonesia/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/indonesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jawa-barat</title>
+      <link>/categories/jawa-barat/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/jawa-barat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perjalanan</title>
+      <link>/categories/perjalanan/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/perjalanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malaysia</title>
+      <link>/categories/malaysia/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/malaysia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foto</title>
+      <link>/categories/foto/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/foto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gorontalo</title>
+      <link>/categories/gorontalo/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gorontalo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
